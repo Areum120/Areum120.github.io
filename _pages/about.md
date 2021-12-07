@@ -4,36 +4,40 @@ title: "About"
 ---
 
 **호기심**과 **탐구욕**이 강한 편입니다. <br>
-어떤 현상이 일어난 이유에 대해 단순히 감으로 짐작하지 않고, <br>
-**정확한 통계**를 바탕으로 의사결정에 도움을 줄 수 있도록 <br>
-**데이터를 수치적으로 분석**하려고 합니다. <br>
-**문제해결을 자동화하는 Machine Learning algorithm**에 관심 있습니다. 
+**고객의 요구사항**을 빨리 파악하고 **문제를 정의**, <br>
+**데이터 분석**을 통해 문제를 해결하고자 합니다. <br>
+필요한 기술과 지식을 빨리 흡수하려고 노력합니다.<br>
+**문제해결을 자동화하는 ML 알고리즘을 서비스로 연결**하는 것에 관심 있습니다. 
 
-## Career Experience
+## Job Experience
 
-| Duration                                        | Job description                                          |
+| Duration                                        | description                                          |
 | ------------------------------------------- | ----------------------------------------------------- |
 | 2021. 07 ~ 2021. 12 | (주) 웍스컴바인 데이터 사이언티스트 PM <br> - 수입자동차 데이터 분석, ML, 데이터 엔지니어링  |
 | 2020. 10 ~ 2020. 12 | 도로교통공단 빅데이터 분석 연구원 인턴 <br> - 교통사고 데이터 수집, 통계분석, 시각화, ML |
 | 2019. 06~ 2020. 03 | ㈜ 나무온 마케팅 전략 기획 PM <br> - 광고 데이터 분석, 디지털마케팅 기획 | 
-| 2018. 10~ 2019. 03 | ㈜ 비클코스메틱 퍼포먼스 마케팅 PM <br> - e-commerce 데이터 분석 및 디지털마케팅 기획 |
-| 2015. 10~ 2018. 06 | ㈜케이제이소프트앤마케팅 마케팅 기획 PM  <br> - 온오프라인 마케팅 기획 |
 
 
+## Awards
 
 
-## Project
+> 2021-12 BMW Garage Startup program Business Intelligence 부문 파트너사 선정 (23:1경쟁률)
+<br>- CIC 고객 상담 로그 데이터 NLP 분석 대시보드 개발 PM
+<br>- BMW 재구매 고객 예측 모델 개발 프로젝트 PM
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
+  
+> 2020-12 도로교통공단 공공 빅데이터 분석 과제 최우수상 
+<br>- 노인보호구역 효율성 재고 및 신규 입지 선정
+
+
+> 2020-08 경기도 빅데이터 전문가 양성과정 파이널 프로젝트 우수상
+<br>- 고령층 디지털 정보 격차 요인 분석
 
 ---
 
 ## skill
 
-### Language
+### Programming Language
 
 - python, R, Java
 - SQL (MySQL, Oracle)
@@ -47,4 +51,10 @@ title: "About"
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+## education
+
+| Duration                                    | description                                          |
+| ------------------------------------------- | ----------------------------------------------------- |
+| 2021.01 ~ 2021.06  | 플레이 데이터 엔코아 아카데미 <br> 자율주행을 위한 임베디드 및 AI영상분석 컨버전스 SW개발자 양성과정 <br> SW엔지니어링 교육 (200시간 이상 | 
+| 2020. 08 ~2020.12  | 도로교통공단 빅데이터 분석 연구원 인턴십 <br> 행정안전부 주관 공공 빅데이터 청년인턴십 확대운영<br>데이터 전문교육(200시간)  |
+| 2020.07 ~ 2020.08  | 경기도 빅데이터 전문가 양성과정 수료(경기도지사 인증) <br> 데이터 전문교육(180시간) |
