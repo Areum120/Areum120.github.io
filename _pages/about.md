@@ -70,11 +70,9 @@ For even more demo pages check the [posts archive][year-archive].
 - python, R, Java
 - SQL (MySQL, Oracle)
 
-### Library
+### Library & Framework
 - pandas, matplotlib, tensorflow, pytorch
-
-### Framework
-- Flask, Vue
+- Flask, Vue.js
 
 ### Service
 - aws ec2, RDS
