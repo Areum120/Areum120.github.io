@@ -1,11 +1,11 @@
 ---
-title: "BMW Project: test"
+title: "Layout: test"
 read_time: false
 comments: false
 share: false
 related: false
 categories:
-- BMW Project
+- Layout
 - Uncategorized
   tags:
 - BMW
