@@ -6,15 +6,14 @@ comments: false
 share: false
 related: false
 categories:
-- BMW Project
-- Uncategorized
-  tags:
-- BMW
-- data analysis
-- matplotlib
-- pandas
+  - BMW Project
+  - Uncategorized 
+tags:
+  - BMW
+  - data analysis
+  - matplotlib
+  - pandas
 ---
-
 
 ```python
 # 데이터 분석
