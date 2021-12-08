@@ -1,4 +1,3 @@
-
 ---
 title: "BMW Project: BMW 경쟁사 및 딜러사 거점 분포 분석"
 date: 2021-08-04
@@ -15,6 +14,9 @@ tags:
    - matplotlib
    - pandas
 ---
+
+BMW의 최대 경쟁사라면 Benz와 Audi라고 할 수 있다. (물론 Audi는 최근에 핀메기 많이 부진해졌다.)<br> 임포터사인 BMW Korea에서 Benz와 Audi의 거점 분포를 확인하고<br>각 딜러사별 거점 분포와 점유율을 살펴보는 EDA를 진행하였다.
+   
 
 ```python
 # 데이터 분석
@@ -42,8 +44,6 @@ plt.rc('font', family=font_name)
 import warnings
 warnings.filterwarnings(action='ignore')
 ```
-
-BMW의 최대 경쟁사라면 Benz와 Audi라고 할 수 있다. (물론 Audi는 최근에 핀메기 많이 부진해졌다.)<br> 임포터사인 BMW Korea에서 Benz와 Audi의 거점 분포를 확인하고<br>각 딜러사별 거점 분포와 점유율을 살펴보는 EDA를 진행하였다.
 
 ## BMW 경쟁사 및 딜러사 거점 분포 분석 Report 
 
