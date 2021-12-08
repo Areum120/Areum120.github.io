@@ -18,12 +18,10 @@ tags:
 
 ```python
 # 데이터 분석
-import numpy as np
 import pandas as pd
 import openpyxl
 
 # 시각화
-import matplotlib as mpl
 import matplotlib.font_manager as fm
 import matplotlib.pyplot as plt
 
