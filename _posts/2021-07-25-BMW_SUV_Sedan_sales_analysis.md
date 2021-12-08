@@ -1,4 +1,3 @@
-```python
 ---
 title: "BMW Project: BMW SUV VS Sedan 모델 별 판매량 EDA 분석 Report"
 date: 2021-07-25
@@ -7,15 +6,14 @@ comments: false
 share: false
 related: false
 categories:
-  - BMW Project
-  - Uncategorized 
-tags:
-   - BMW
-   - data analysis
-   - matplotlib
-   - pandas
+- BMW Project
+- Uncategorized
+  tags:
+- BMW
+- data analysis
+- matplotlib
+- pandas
 ---
-```
 
 
 ```python
