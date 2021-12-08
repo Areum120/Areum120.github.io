@@ -1,5 +1,5 @@
 ---
-title: "BMW Project: BMW VS 수입차브랜드 판매량 비교 분석"
+title: "BMW Project: BMW VS 수입차브랜드 판매량 EDA 분석"
 date: 2021-07-20
 read_time: false
 comments: false

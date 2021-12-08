@@ -1,5 +1,5 @@
 ---
-title: "BMW Project: BMW SUV VS Sedan 모델 별 판매량 EDA 분석 Report"
+title: "BMW Project: BMW SUV VS Sedan 모델 별 판매량 EDA 분석 "
 date: 2021-07-25
 read_time: false
 comments: false
@@ -17,21 +17,13 @@ tags:
 
 ```python
 # 데이터 분석
-import numpy as np
 import pandas as pd
-import os
-import json
-import pickle
 
 # 시각화
 import matplotlib as mpl
 import matplotlib.font_manager as fm
 import matplotlib.pyplot as plt
 import seaborn as sns
-import folium
-from folium import plugins
-from folium.features import CustomIcon
-import googlemaps
 
 # 한글 폰트 사용
 font_name = fm.FontProperties(fname="C:/Windows/Fonts/malgun.ttf").get_name()
@@ -42,9 +34,9 @@ import warnings
 warnings.filterwarnings(action='ignore')
 ```
 
-이번에는 BMW 모델별로 어떤 모델이 가장 많이 팔렸는지 2017년 부터 2021년 5월까지 누적판매량 순위를 EDA를 살펴볼 것이다
-모델 중 SUV가 요즘 수입차와 국내차 브랜드를 가리지 않고 많이 팔리는 추세인데 SUV와 세단의 판매 추이와
-연간 차량 등록 수 대비 BMW SUV 판매량은 어느정도 차지하는지 EDA로 함께 살펴볼 예정이다
+이번에는 BMW 모델별로 어떤 모델이 가장 많이 팔렸는지 2017년 부터 2021년 5월까지 누적판매량 순위를 EDA를 살펴볼 것이다<br>
+모델 중 SUV가 요즘 수입차와 국내차 브랜드를 가리지 않고 많이 팔리는 추세이다. <br> SUV와 세단의 판매 추이도 알아보고
+연간 차량 등록 수 대비 BMW SUV 판매량은 어느정도 차지하는지 EDA로 알아보겠다.
 
 ## 2017-2021(1-5월) BMW 임포터 & 딜러사 동향 분석 Report 
 
