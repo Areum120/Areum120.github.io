@@ -7,7 +7,6 @@ share: false
 related: false
 categories:
   - BMW Project
-  - Uncategorized 
 tags:
    - BMW
    - data analysis

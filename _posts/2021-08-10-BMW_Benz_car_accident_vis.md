@@ -8,7 +8,6 @@ related: false
 
 categories:
    - BMW Project
-   - Uncategorized
 tags:
    - BMW
    - data analysis
@@ -1748,19 +1747,15 @@ for n in seoul_car_sc.index:
 map
 ```
 
-![image.png](attachment:image.png)
+![car_vis]({{ site.url }}{{ site.baseurl }}/assets/images/bmw_car_vis.png)
 
 
-```python
 - 사고가 많이 발생하는지역 : 강남구, 송파구, 서초구, 영등포구
-- 사고가 많이 발생하면서, BMW거점이 없는지역 : 송파구, 영등포구 
-```
+- 사고가 많이 발생하면서, BMW거점이 없는지역 : 송파구, 영등포구
+{: .notice}
 
 ### 신규 거점 추천 지역 : 송파구, 영등포구
 
 - 교통사고량이 많고 BMW 서비스센터가 수가 적은 송파구, 영등포구 지역 중에서<br>자동차 부품점이 부족한 지역 부근에 BMW 신규 서비스센터를 설치한다면 고객 유입량이 많을 것으로 기대된다.
-  {: .notice--info}
+{: .notice--info}
 
-```python
-
-```
