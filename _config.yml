@@ -154,6 +154,7 @@ footer:
 include:
   - .htaccess
   - _pages
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -179,7 +180,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
+#  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
@@ -228,6 +229,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-toc #테이블 목차
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -276,7 +278,6 @@ compress_html:
     envs: development
 
 
-
 # Collections
 collections:
   docs:
@@ -312,6 +313,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: true
+      sidebar:
+        nav: "docs"
   # _recipes
   - scope:
       path: ""

@@ -10,3 +10,13 @@ main:
     url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
+
+# documentation links
+docs:
+  - title: Getting Started
+    url: https://Areum120.github.io/
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/Quick-Start Guide/
+sidebar:
+  nav: "docs"

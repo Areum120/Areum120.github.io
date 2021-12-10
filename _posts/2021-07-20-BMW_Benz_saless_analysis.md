@@ -8,10 +8,12 @@ related: false
 categories:
   - BMW Project
 tags:
-   - BMW
-   - data analysis
-   - matplotlib
-   - pandas
+  - BMW
+  - data analysis
+  - matplotlib
+  - pandas
+
+toc: true
 ---
 
 
