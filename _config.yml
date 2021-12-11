@@ -343,9 +343,11 @@ defaults:
       share: true
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
       author_profile: false
       share: true
+      sidebar:
+        nav: "docs"

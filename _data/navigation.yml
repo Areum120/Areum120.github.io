@@ -14,5 +14,7 @@ docs:
     children:
       - title: "Quick-Start Guide"
         url: /docs/Quick-Start Guide/
+      - title: "BMW Startup Garage"
+        url: /portfolio/BMW Startup Garage/
 sidebar:
   nav: "docs"

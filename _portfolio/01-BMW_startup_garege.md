@@ -1,5 +1,6 @@
 ---
-title: "BMW Project: BMW Startup Garage"
+title: "BMW Startup Garage"
+permalink: /portfolio/BMW Startup Garage/
 date: 2021-11-26
 read_time: false
 comments: false
@@ -19,6 +20,7 @@ tags:
     - AWS RDS
     - AWS EC2
     - datagrip
+toc: true
 ---
 
 ## BMW Garage Startup Program이란?
