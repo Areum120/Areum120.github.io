@@ -308,7 +308,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
@@ -319,10 +319,10 @@ defaults:
       type: docs
     values:
       layout: single
-      read_time: true
-      author_profile: true
-      share: true
-      comments: true
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
       sidebar:
         nav: "docs"
   # _recipes
