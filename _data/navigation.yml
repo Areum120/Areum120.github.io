@@ -18,5 +18,5 @@ docs:
     children:
       - title: "Quick-Start Guide"
         url: /docs/Quick-Start Guide/
-  sidebar:
-    nav: "docs"
+sidebar:
+  nav: "docs"

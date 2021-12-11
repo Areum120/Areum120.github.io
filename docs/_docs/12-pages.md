@@ -11,7 +11,7 @@ To better organize all of your pages you can centralize them into a single locat
 
 ```bash
 sample-project
-└── _pages/
+└── _pages2/
     ├── 404.md               # custom 404 page
     ├── about.md             # about page
     └── contact.md           # contact page
@@ -33,7 +33,7 @@ Examples:
 
 ```yaml
 defaults:
-  # _pages
+  # _pages2
   - scope:
       path: ""
       type: pages
