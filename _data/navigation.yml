@@ -8,13 +8,18 @@ main:
     url: /collection-archive/
 
 # documentation links
-docs:
-  - title: Sidebar menu
+collections:
+  - title: "collections"
     url: https://Areum120.github.io/
     children:
       - title: "Quick-Start Guide"
-        url: /docs/Quick-Start Guide/
+        url: /docs/quick-start-guide/
       - title: "BMW Startup Garage"
         url: /portfolio/BMW Startup Garage/
 sidebar:
-  nav: "docs"
+  nav: "collections"
+
+
+
+
+

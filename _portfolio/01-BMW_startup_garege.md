@@ -2,10 +2,6 @@
 title: "BMW Startup Garage"
 permalink: /portfolio/BMW Startup Garage/
 date: 2021-11-26
-read_time: false
-comments: false
-share: false
-related: false
 categories:
     - BMW Project
     - BMW startup garage
@@ -23,7 +19,7 @@ tags:
 toc: true
 ---
 
-## BMW Garage Startup Program이란?
+## BMW Garage Startup Program
 
 ![proposal]({{ site.url }}{{ site.baseurl }}/assets/images/bmwgs (20).png)
 
@@ -124,7 +120,7 @@ BMW 7시리즈 재구매 예측 모델(ML algoruthm)을 통해 고객의 구매 
 1.   BMW 7series 재구매 예측 머신러닝 알고리즘 개발
 2.   BMW 7series 재구매 요인 도출
 
-### Retention Prediction이 중요한 이유
+### Retention Prediction
 ![retention1]({{ site.url }}{{ site.baseurl }}/assets/images/bmwgs (21).png)
 ![retention2]({{ site.url }}{{ site.baseurl }}/assets/images/bmwgs (22).png)
 
@@ -162,7 +158,7 @@ bert 모델은 transformer 계열로 이 모델의 특징은 positional embeddin
 약 3만건의 데이터를 학습하여 **accuracy 81% 모델**을 개발하였으며 
 세부 카테고리 분류에 따른 정의서 데이터와 추가적인 상담데이터 학습을 통해 정확도 개선할 예정입니다.
 
-## 디자인
+### 디자인
 ![design]({{ site.url }}{{ site.baseurl }}/assets/images/bmwgs (15).png)
 ![design]({{ site.url }}{{ site.baseurl }}/assets/images/bmwgs (16).png)
 
@@ -170,7 +166,7 @@ bert 모델은 transformer 계열로 이 모델의 특징은 positional embeddin
 ## [대시보드 결과물 보러 가기](http://ec2-15-165-32-56.ap-northeast-2.compute.amazonaws.com:30707/external/pageOne)
 
 ---
-### 진행하면서 어려웠던 점
+## 진행하면서 어려웠던 점
 <br>
 **데이터 전달 시점이 늦어 시간이 부족했던 이슈**
 

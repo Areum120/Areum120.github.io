@@ -15,8 +15,8 @@ tags:
    - googlemaps
    - pandas
 ---
-
-
+BMW 신규 전시장과 서비스센터 거점 선정을 위해<br>
+서울지역 별 교통사고량 대비 BMW, Benz의 서비스센터 수를 지도 시각화로 비교 분석하기로 했다.
 ```python
 # 데이터 분석
 import pandas as pd
@@ -36,10 +36,6 @@ warnings.filterwarnings(action='ignore')
 ```
 
 ## BMW 신규 거점 선정을 위한 분석 Report 
-
-
-BMW 신규 전시장과 서비스센터 거점 선정을 위해<br>
-서울지역 별 교통사고량 대비 BMW, Benz의 서비스센터 수를 지도 시각화로 비교 분석하기로 했다.
 
 ### 전시장 & 서비스센터 신규 거점 분석
   - 서울시 차대차 교통사고 수 분석
