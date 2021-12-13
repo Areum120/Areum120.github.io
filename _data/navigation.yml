@@ -16,8 +16,8 @@ collections:
         url: /docs/quick-start-guide/
       - title: "BMW Startup Garage"
         url: /portfolio/BMW Startup Garage/
-      - title: "Analysis of factors that increase greenonion prices"
-        url: /portfolio/Analysis of factors that increase greenonion prices/
+      - title: "Analysis of green onion prices"
+        url: /portfolio/Analysis of green onion prices/
 sidebar:
   nav: "collections"
 

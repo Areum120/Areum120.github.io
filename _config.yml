@@ -339,7 +339,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-   _portfolio
+  # _portfolio
   - scope:
       path: "_portfolio"
       type: portfolio

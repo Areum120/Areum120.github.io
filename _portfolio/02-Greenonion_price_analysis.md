@@ -1,6 +1,6 @@
 ---
-title: "Analysis of factors that increase greenonion prices"
-permalink: /portfolio/Analysis of factors that increase greenonion prices/
+title: "Analysis of green onion prices"
+permalink: /portfolio/Analysis of green onion prices/
 date: 2021-03-15
 categories:
     - 대파가격분석
