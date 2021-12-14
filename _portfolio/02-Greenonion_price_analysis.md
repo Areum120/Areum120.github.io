@@ -45,8 +45,13 @@ result :
 
 1. 공공 데이터 포털 사이트에서 오픈API 활용가이드 분석 및 사용 신청합니다.
 
+<br>
+
 ![GO_02]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion2.png)
+
 ![GO_03]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion3.png)
+
+<br>
 
 2. 2021 01~03월 3개월 기간의 60만건 데이터 Json 타입으로 데이터를 불러옵니다.
 
@@ -212,8 +217,11 @@ layout = go.Layout(title='전국 도매시장 별 대파 거래량 합계 비교
 fig = go.Figure(data=data, layout=layout)
 pyo.iplot(fig)
 ```
+<br>
 
 ![GO_04]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion4.png)
+
+<br>
 
 ### 2021 1~3월 대파 총 거래량 전년대비 비교 시각화
 
@@ -240,8 +248,11 @@ fig = go.Figure(data=data, layout=layout)
 pyo.iplot(fig)
 
 ```
+<br>
 
 ![GO_05]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion5.png)
+
+<br>
 
 ### 전국 산지별 월 대파 출하량 파악
 
@@ -261,8 +272,11 @@ layout = go.Layout(title='2020-2021 1~3월 산지 별 대파 출하량', barmode
 fig = go.Figure(data=data, layout=layout)
 pyo.iplot(fig)
 ```
+<br>
 
 ![GO_06]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion6.png)
+
+<br>
 
 ### 2020 VS 2021 3월 대파 가격 Boxplot
 
@@ -276,8 +290,11 @@ plt.boxplot(data, flierprops=green_diamond)
 plt.title("거래가격 Boxplot 시각화")
 plt.show()
 ```
+<br>
 
 ![GO_07]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion7.png)
+
+<br>
 
 ### 평균 거래가와 평균 최저기온 상관관계 Heatmap
 
@@ -296,5 +313,8 @@ trade_corr2 = Jindo_TradeVol_pri.corr(method = 'pearson')
 trade_corr2#피어슨 상관계수
 # 값이 -0.7 ~ -0.3 이면, 뚜렷한 음적 상관관계
 ```
+<br>
 
 ![GO_08]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion8.png)
+
+<br>
