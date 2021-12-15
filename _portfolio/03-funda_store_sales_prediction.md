@@ -14,8 +14,9 @@ tags:
 toc: true
 ---
 ## 펀다 상점매출 예측 경진대회
+
 ![funda00]({{ site.url }}{{ site.baseurl }}/assets/images/funda0.png)
-![funda01]({{ site.url }}{{ site.baseurl }}/assets/images/funda1.png)
+![funda01]({{ site.url }}{{ site.baseurl }}/assets/images/funda01.png)
 
 데이콘 펀다 전자 상거래 카드 매출 데이터 머신러닝 알고리즘을 통한 ‘3개월 후 상점 매출 예측＇개인 프로젝트를 진행하였습니다.
 - 시계열 ARIMA 모델로 3개월 후 상점 매출 예측 진행
@@ -2678,7 +2679,7 @@ plt.show()
     
 
 
-## a(=1)회사가 이상치제일 많고 중앙값 최대값 총 매출에 가장 많이 기여한다 이상치는 스케일러가 필요하다 ##
+a(=1)회사가 이상치제일 많고 중앙값 최대값 총 매출에 가장 많이 기여한다 이상치는 스케일러가 필요하다
 
 
 
@@ -3388,10 +3389,8 @@ plt.show()
 
 ![funda14]({{ site.url }}{{ site.baseurl }}/assets/images/funda14.png)
 
-    
 
-
-## 할부개월 수가 적을 수록 총매출이 크며 이상치도 제일 크다 (1,3,5,6,10, 12달 이상치 스케일러가 필요##
+할부개월 수가 적을 수록 총매출이 크며 이상치도 제일 크다 (1,3,5,6,10, 12달 이상치 스케일러가 필요
 
 
 ```python
@@ -4706,8 +4705,6 @@ plt.show()
 
 
 
-## ARIMA 모델 ##
-
 ### 전처리 ###
 
 
@@ -5074,7 +5071,7 @@ salesbymonth['1st diff'].plot()
 ![funda19_6]({{ site.url }}{{ site.baseurl }}/assets/images/funda19 (6).png)
 
 
-## 2차 differencing ##
+### 2차 differencing 
 
 
 ```python
@@ -5108,7 +5105,7 @@ adf_check(salesbymonth['2nd diff'].dropna())
     Stationary5.406048999294243e-07
 
 
-## 3차 differencing ##
+### 3차 differencing 
 
 
 ```python
@@ -5521,7 +5518,7 @@ result.resid.plot(kind='kde')
 
 
 
-### 예측  
+## 예측  
 
 
 ```python
@@ -5546,7 +5543,7 @@ from pandas import datetime
 from datetime import timedelta
 ```
 
-## Out-of- sample 예측(5개월) ##
+### Out-of- sample 예측(5개월) 
 
 
 - 가우스 분포로 0에 가까운지 그래프 모형 확인
