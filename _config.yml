@@ -276,9 +276,9 @@ compress_html:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
+#  docs:
+#    output: true
+#    permalink: /:collection/:path/
 #  recipes:
 #    output: true
 #    permalink: /:collection/:path/
@@ -312,17 +312,17 @@ defaults:
       layout: single
       author_profile: true
   # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "collections"
+#  - scope:
+#      path: ""
+#      type: docs
+#    values:
+#      layout: single
+#      read_time: false
+#      author_profile: false
+#      share: false
+#      comments: false
+#      sidebar:
+#        nav: "collections"
   # _recipes
 #  - scope:
 #      path: ""
