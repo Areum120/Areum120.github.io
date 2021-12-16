@@ -1,5 +1,5 @@
 ---
-title: "도로교통공단 노인보호구역 입지 선정"
+title: "Selection of the location of the elderly protection zone"
 permalink: /portfolio/koroad Selection of the location of the elderly protection zone/
 date: 2021-05-01
 categories:
@@ -13,7 +13,7 @@ tags:
 - ML
 toc: true
 ---
-## 고령보행자 사고 심각도 분석을 통한 기존 노인보호구역 효율성 재고 및 신규 입지 선정
+## 도로교통공단 고령보행자 사고 심각도 분석을 통한 노인보호구역 효율성 재고 및 신규 입지 선정
 
 
 ![funda00]({{ site.url }}{{ site.baseurl }}/assets/images/funda0.png)

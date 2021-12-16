@@ -18,7 +18,7 @@ collections:
         url: /portfolio/Analysis of green onion prices/
       - title: "Funda sales prediction"
         url: /portfolio/Funda sales prediction/
-      - title: "도로교통공단 노인보호구역 입지 선정"
+      - title: "Selection of the location of the elderly protection zone"
         url: /portfolio/koroad Selection of the location of the elderly protection zone/
 sidebar:
   nav: "collections"
