@@ -346,9 +346,8 @@ plt.show()
 ```
 
 
-    
-![png](output_21_0.png)
-    
+
+![bmwcompet1]({{ site.url }}{{ site.baseurl }}/assets/images/bmwcompet (1).png)
 
 
 
@@ -381,9 +380,7 @@ plt.show()
 ```
 
 
-    
-![png](output_22_0.png)
-    
+![bmwcompet2]({{ site.url }}{{ site.baseurl }}/assets/images/bmwcompet (2).png)
 
 
 
@@ -416,7 +413,5 @@ plt.show()
 ```
 
 
-    
-![png](output_23_0.png)
-    
+![bmwcompet3]({{ site.url }}{{ site.baseurl }}/assets/images/bmwcompet (3).png)
 

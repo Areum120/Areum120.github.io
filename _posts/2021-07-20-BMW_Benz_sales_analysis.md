@@ -738,10 +738,8 @@ plt.title('브랜드별 17-21년 분기 판매량 비교',fontsize=20) ## 타이
 plt.show()
 ```
 
+![bmwbenzsales1]({{ site.url }}{{ site.baseurl }}/assets/images/bmwbenzsales1 (1).png)
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-20-BMW_Benz_saless_analysis/output_21_0.png)
-    
 
 
 
@@ -879,9 +877,7 @@ plt.show()
 ```
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-20-BMW_Benz_saless_analysis/output_29_0.png)
-    
+![bmwbenzsales2]({{ site.url }}{{ site.baseurl }}/assets/images/bmwbenzsales1 (2).png)
 
 
 ##  2017-2021(1-5월) BMW Vs Benz 연간 판매 추이 시각화
@@ -910,7 +906,8 @@ ax.legend(fontsize=12, loc='best') # 범례 설정 best로 해놓으면 가장 �
 plt.xticks(index, year)
 plt.show()
 ```
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-20-BMW_Benz_saless_analysis/output_32_0.png)
-    
+
+
+![bmwbenzsales3]({{ site.url }}{{ site.baseurl }}/assets/images/bmwbenzsales1 (3).png)
+
 

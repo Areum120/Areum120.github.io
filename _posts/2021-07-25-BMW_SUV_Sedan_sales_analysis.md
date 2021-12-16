@@ -2673,9 +2673,7 @@ sns.barplot(x="판매량", y="BMW모델", data=BMWSalesRanking)
 
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_44_1.png)
-    
+![bmwsuvsedan1]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (1).png)
 
 
 
@@ -2686,9 +2684,8 @@ sns.palplot(custom_palette)
 ```
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_45_0.png)
-    
+
+![bmwsuvsedan2]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (2).png)
 
 
 
@@ -2699,8 +2696,8 @@ sns.palplot(custom_palette2)
 ```
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_46_0.png)
+
+![bmwsuvsedan3]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (3).png)
     
 
 
@@ -2786,9 +2783,9 @@ plt.show()
 ```
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_49_0.png)
-    
+
+![bmwsuvsedan4]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (4).png)
+
 
 
 ### 연간 차량 등록 수 및 BMW SUV 판매추이 비교
@@ -2832,7 +2829,7 @@ plt.show()
 ```
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_51_0.png)
+
+![bmwsuvsedan5]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (5).png)
     
 
