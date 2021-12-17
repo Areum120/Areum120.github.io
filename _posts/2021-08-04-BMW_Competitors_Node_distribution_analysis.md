@@ -15,7 +15,7 @@ tags:
 toc: true
 ---
 
-BMW의 최대 경쟁사라면 Benz와 Audi라고 할 수 있다. (물론 Audi는 최근에 핀메기 많이 부진해졌다.)<br> 임포터사인 BMW Korea에서 Benz와 Audi의 거점 분포를 확인하고<br>각 딜러사별 거점 분포와 점유율을 살펴보는 EDA를 진행하였다.
+BMW의 최대 경쟁사라면 Benz와 Audi라고 할 수 있다. (물론 Audi는 최근에 판매가 많이 부진해졌다.)<br> 임포터사인 BMW Korea에서 Benz와 Audi의 거점 분포를 확인하고<br>각 딜러사별 거점 분포와 점유율을 살펴보는 EDA를 진행하였다.
    
 
 ```python
