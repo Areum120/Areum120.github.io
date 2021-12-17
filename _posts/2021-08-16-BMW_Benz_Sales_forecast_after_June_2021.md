@@ -6,8 +6,8 @@ comments: false
 share: false
 related: false
 categories:
-  - BMW Project
-  tags:
+  - BMW Project 
+tags:
   - BMW
   - data analysis
   - pandas
@@ -3812,8 +3812,6 @@ plt.title('21년 5월 이후 BMW VS Benz 판매 예측',fontsize=20) # 타이틀
 plt.show()
 
 ```
-
-
 
 ![bmwsalesforc17]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (17).png)
 
