@@ -6,15 +6,15 @@ comments: false
 share: false
 related: false
 categories:
-- BMW Project
+  - BMW Project
   tags:
-- BMW
-- data analysis
-- pandas
-- ARIMA
-- SARIMAX
-- 시계열예측
-- 판매량예측
+  - BMW
+  - data analysis
+  - pandas
+  - ARIMA
+  - SARIMAX
+  - 시계열예측
+  - 판매량예측
 toc: true
 ---
 
