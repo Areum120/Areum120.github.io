@@ -113,7 +113,7 @@ del National["index"]
 del Samchully["index"]
 ```
 
-### 1) 임포터사 
+## 1) 임포터사 
 
 ### 경쟁사 거점 분포
 
@@ -207,7 +207,7 @@ folium.LayerControl(collapsed=False).add_to(map)
 map
 ```
 
-### 2) 딜러사
+## 2) 딜러사
 
 ### 딜러사 거점 분포
 

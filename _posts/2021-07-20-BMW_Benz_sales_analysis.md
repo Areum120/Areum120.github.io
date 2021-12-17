@@ -698,8 +698,8 @@ BMW_quentity
 ```python
 Q_data2 = pd.read_excel("./17~21_quarterly_sales.xlsx", engine='openpyxl')
 ```
-
-## 2017-2021(1-5월) BMW 외 5개 수입차 브랜드 분기별 판매량 시각화
+## EDA
+### 2017-2021(1-5월) BMW 외 5개 수입차 브랜드 분기별 판매량 시각화
 
 
 ```python
@@ -826,7 +826,7 @@ band6_total.head(2)
 mean_21= int(np.mean(band6_2021_bmw['2021_판매량']))
 ```
 
-## 2017-2021(1-5월) BMW 외 5개 수입차 브랜드 연간 월별 판매량 시각화
+### 2017-2021(1-5월) BMW 외 5개 수입차 브랜드 연간 월별 판매량 시각화
 
 - 17~20년 7월에 공통적으로 판매량이 적음
 - 20년 8월 판매폭이 대폭증가
@@ -879,7 +879,7 @@ plt.show()
 ![bmwbenzsales2]({{ site.url }}{{ site.baseurl }}/assets/images/bmwbenzsales1 (2).png)
 
 
-##  2017-2021(1-5월) BMW Vs Benz 연간 판매 추이 시각화
+###  2017-2021(1-5월) BMW Vs Benz 연간 판매 추이 시각화
 
 - 19년 두 브랜드 간 총 판매량 격차가 가장 큼
 - 20-21년 두 브랜드 간 판매량 격차가 현저히 좁아졌으므로 21년 하반기 BMW 판매량이 Benz와 간격이 좁혀질 주목 여지 있음

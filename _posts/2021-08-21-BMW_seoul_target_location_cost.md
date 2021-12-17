@@ -212,7 +212,7 @@ seoul_people_m_idx = seoul_people_m.set_index("자치구")
 seoul_people_f_idx = seoul_people_f.set_index("자치구")
 ```
 
-## 인구통계 분석
+### 인구통계 분석
 
 - 전체 연령대 중 20대는 여성의 비율이 높고, 30대는 남성의 비율이 높음
 - 송파구, 강서구 지역 주 고객 타겟층 3050 남성,여성 인구 밀도 높음 
