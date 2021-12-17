@@ -163,7 +163,7 @@ bert 모델은 transformer 계열로 이 모델의 특징은 positional embeddin
 ![design]({{ site.url }}{{ site.baseurl }}/assets/images/bmwgs (16).png)
 
 
-## [대시보드 결과물 보러 가기](http://ec2-15-165-32-56.ap-northeast-2.compute.amazonaws.com:30707/external/pageOne)
+## [대시보드 결과물 보러 가기](www.bmwboard.co.kr)
 
 ---
 ## 진행하면서 어려웠던 점
@@ -248,6 +248,12 @@ PoC 이후에 5년 이상 기간의 데이터를 확보하여 재구매 예측 �
 데이터를 row별로 한줄씩 조회하는 로직으로 CPU 연산을 많이 차지하는 걸 알게되었습니다.<br>
 CTO는 CPU 연산을 줄이기 위해 카테고리와 갯수를 1:1 맵핑하는 로직으로 수정하였습니다.
 이에 8만 6천 건 데이터 조회 쿼리가 실행되는 속도가 30초에서 1초로 훨씬 빨라졌습니다.
+
+**모바일 최적화 이슈**
+짧은 PoC 기간에 반응형으로 제작하여 했으나 모바일로 최적화하기 어려웠습니다. 
+startup garage 선정 이후 BMW사와 논의하여 대시보드 고도화에 대해서 논의하였습니다
+3차 모바일 퍼블리싱을 Vue component와 전체 layout에 적용하여 모바일 최적화 완료하였습니다. 
+
 
 [comment]: <> (디자인-> 퍼블리싱-> 웹 구현 100% 안되는 문제)
 [comment]: <> (디자인으로 보았을 때는 이쁜데 데이터를 넣으면 가독성이 떨어지고 &#40;pie차트&#41;,)
