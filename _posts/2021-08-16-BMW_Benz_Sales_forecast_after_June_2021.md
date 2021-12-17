@@ -13,8 +13,6 @@ categories:
   - pandas
   - ARIMA
   - SARIMAX
-  - 시계열예측
-  - 판매량예측
 toc: true
 ---
 
