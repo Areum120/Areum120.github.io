@@ -12,7 +12,6 @@ tags:
   - data analysis
   - matplotlib
   - pandas
-
 toc: true
 ---
 

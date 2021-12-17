@@ -9,11 +9,12 @@ categories:
   - BMW Project
   - Uncategorized 
 tags:
-   - BMW
-   - data analysis
-   - folium 
-   - matplotlib
-   - pandas
+  - BMW
+  - data analysis
+  - folium 
+  - matplotlib
+  - pandas 
+toc: true
 ---
 지난번 서울시 교통사고량과 BMW 서비스센터 위치, 자동차부품점 등을 함께 분석해보았다. <br>
 BMW 전시장과 서비스센터 신규 거점 선정을 위해서는 서울시 고객층인 서울시민의 인구통계 대비 차량 이용 수를 분석해볼 필요가 있었다. <br>

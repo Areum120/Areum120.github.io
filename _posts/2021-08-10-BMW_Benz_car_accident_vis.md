@@ -13,7 +13,8 @@ tags:
    - data analysis
    - folium
    - googlemaps
-   - pandas
+   - pandas 
+toc: true
 ---
 BMW 신규 전시장과 서비스센터 거점 선정을 위해<br>
 서울지역 별 교통사고량 대비 BMW, Benz의 서비스센터 수를 지도 시각화로 비교 분석하기로 했다.

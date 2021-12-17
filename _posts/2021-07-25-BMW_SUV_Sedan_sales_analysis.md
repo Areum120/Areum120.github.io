@@ -11,7 +11,8 @@ tags:
   - BMW
   - data analysis
   - matplotlib
-  - pandas
+  - pandas 
+toc: true
 ---
 BMW 모델별로 어떤 모델이 가장 많이 팔렸는지 2017년 부터 2021년 5월까지 누적판매량 순위를 EDA를 살펴볼 것이다<br>
 모델 중 SUV가 요즘 수입차와 국내차 브랜드를 가리지 않고 많이 팔리는 추세이다. <br> SUV와 세단의 판매 추이도 알아보고

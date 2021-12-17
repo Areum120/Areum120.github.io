@@ -1,3 +1,23 @@
+---
+title: "BMW Project: BMW, Benz 2021년 6월 이후 판매량 예측"
+date: 2021-08-16
+read_time: false
+comments: false
+share: false
+related: false
+categories:
+- BMW Project
+  tags:
+- BMW
+- data analysis
+- pandas
+- ARIMA
+- SARIMAX
+- 시계열예측
+- 판매량예측
+toc: true
+---
+
 ```python
 ## BMW, Benz 2021년 6월 이후 판매량 예측
 ```
@@ -39,9 +59,6 @@ plt.rc('font', family=font_name)
 df = pd.read_csv('.\\17_21_6brands_month_sales.csv', encoding='utf-8')
 df
 ```
-
-
-
 
 <div>
 <style scoped>
@@ -1280,9 +1297,10 @@ result.plot()
 
 
 
-    
-![png](output_18_1.png)
-    
+
+
+![bmwsalesforc1]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (1).png)
+
 
 
 
@@ -1374,8 +1392,9 @@ timeseries.rolling(12).mean().plot()#12개월평균
 
 
 
-    
-![png](output_21_1.png)
+
+
+![bmwsalesforc2]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (2).png)
     
 
 
@@ -2340,8 +2359,8 @@ Benz_train.plot(figsize = (15,6))
 
 
 
-    
-![png](output_34_1.png)
+
+![bmwsalesforc3]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (3).png)
     
 
 
@@ -2360,12 +2379,7 @@ BMW_train.plot(figsize = (15,6))
     <matplotlib.axes._subplots.AxesSubplot at 0x25ccc73e128>
 
 
-
-
-    
-![png](output_35_1.png)
-    
-
+![bmwsalesforc4]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (4).png)
 
 
 ```python
@@ -2382,10 +2396,7 @@ fig.set_size_inches(15,7)
 
 
 
-    
-![png](output_36_1.png)
-    
-
+![bmwsalesforc5]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (5).png)
 
 
 ```python
@@ -2400,8 +2411,8 @@ fig.set_size_inches(15,7)
 
 
 
-    
-![png](output_37_1.png)
+
+![bmwsalesforc6]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (6).png)
     
 
 
@@ -2646,8 +2657,8 @@ Benz_train['1st diff'].plot()
 
 
 
-    
-![png](output_49_1.png)
+
+![bmwsalesforc7]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (7).png)
     
 
 
@@ -2674,8 +2685,9 @@ plot_acf(Benz_train['1st diff'].dropna());
 ```
 
 
-    
-![png](output_53_0.png)
+
+
+![bmwsalesforc8]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (8).png)
     
 
 
@@ -2815,8 +2827,9 @@ bresult.resid.plot()
 
 
 
-    
-![png](output_65_1.png)
+
+
+![bmwsalesforc9]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (9).png)
     
 
 
@@ -2833,8 +2846,9 @@ bresult.resid.plot(kind='kde')
 
 
 
-    
-![png](output_66_1.png)
+
+
+![bmwsalesforc10]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (10).png)
     
 
 
@@ -2848,8 +2862,9 @@ plt.show()
 ```
 
 
-    
-![png](output_68_0.png)
+
+
+![bmwsalesforc11]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (11).png)
     
 
 
@@ -3017,8 +3032,9 @@ plt.show()
 ```
 
 
-    
-![png](output_76_0.png)
+
+
+![bmwsalesforc12]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (12).png)
     
 
 
@@ -3516,9 +3532,7 @@ result_Benz[['Benz','Benz_forecast']].plot(figsize=(12,8))
 
 
 
-
-    
-![png](output_89_1.png)
+![bmwsalesforc13]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (13).png)
     
 
 
@@ -3644,8 +3658,9 @@ future_df[['Benz', 'Benz_forecast']].plot(figsize=(12, 8))
 
 
 
-    
-![png](output_94_1.png)
+
+
+![bmwsalesforc14]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (14).png)
     
 
 
@@ -3734,8 +3749,9 @@ result_BMW[['BMW','forecast']].plot(figsize=(12,8))
 
 
 
-    
-![png](output_99_1.png)
+
+
+![bmwsalesforc15]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (15).png)
     
 
 
@@ -3764,8 +3780,9 @@ future_df2[['BMW', 'BMW_forecast']].plot(figsize=(12, 8))
 
 
 
-    
-![png](output_101_1.png)
+
+
+![bmwsalesforc16]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (16).png)
     
 
 
@@ -3799,7 +3816,8 @@ plt.show()
 ```
 
 
-    
-![png](output_104_0.png)
+
+![bmwsalesforc17]({{ site.url }}{{ site.baseurl }}/assets/images/bmwarima (17).png)
+
     
 
