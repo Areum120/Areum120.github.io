@@ -163,7 +163,7 @@ bert 모델은 transformer 계열로 이 모델의 특징은 positional embeddin
 ![design]({{ site.url }}{{ site.baseurl }}/assets/images/bmwgs (16).png)
 
 
-## [대시보드 결과물 보러 가기](http://ec2-15-165-32-56.ap-northeast-2.compute.amazonaws.com:30707/external/pageOne)
+## [대시보드 결과물 보러 가기](http://bmwboard.co.kr/)
 
 ---
 ## 진행하면서 어려웠던 점
