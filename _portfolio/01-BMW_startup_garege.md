@@ -47,8 +47,9 @@ IT를 비롯한 4차 산업 기술과 비전을 보유한 스타트업을 발굴
   - 디자이너
 
 ---
-데이터 연구소팀의 데이터 사이언티스트로서 근무하면서<br>
-제안서 작성부터 전반적인 커뮤니케이션과 운영관리, 데이분석 및 엔지니어링 업무를 맡았습니다.<br>
+데이터 연구소팀의 BMWgs 프로젝트 PM을 맡아 진행하였습니다.<br>
+BMW 마케팅팀의 요청한 문제 정의 및 해결을 위한 솔루션 제안부터 
+전반적인 커뮤니케이션과 운영관리, 데이분석 및 데이터엔지니어링 업무를 맡았습니다.<br>
 
 그 결과 총 23개 기업이 신청한 Business Intelligence 분야에서<br>
 파트너사로 단독 선정되는 성과를 이루었습니다.
@@ -163,7 +164,7 @@ bert 모델은 transformer 계열로 이 모델의 특징은 positional embeddin
 ![design]({{ site.url }}{{ site.baseurl }}/assets/images/bmwgs (16).png)
 
 
-## [대시보드 결과물 보러 가기](http://bmwboard.co.kr/)
+## [대시보드 결과물 보러 가기](https://www.bmwboard.co.kr/#/sign-in)
 
 ---
 ## 진행하면서 어려웠던 점
