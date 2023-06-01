@@ -45,13 +45,8 @@ result :
 
 1. 공공 데이터 포털 사이트에서 오픈API 활용가이드 분석 및 사용 신청합니다.
 
-<br>
-
-![GO_02]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion2.png)
-
-![GO_03]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion3.png)
-
-<br>
+![GO_02]({{ site.url }}{{ site.baseurl }}/assets/images/greenonion2.png)
+![GO_03]({{ site.url }}{{ site.baseurl }}/assets/images/greenonion3.png)
 
 2. 2021 01~03월 3개월 기간의 60만건 데이터 Json 타입으로 데이터를 불러옵니다.
 
@@ -219,7 +214,7 @@ pyo.iplot(fig)
 ```
 <br>
 
-![GO_04]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion4.png)
+![GO_04]({{ site.url }}{{ site.baseurl }}/assets/images/greenonion4.png)
 
 <br>
 
@@ -250,7 +245,7 @@ pyo.iplot(fig)
 ```
 <br>
 
-![GO_05]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion5.png)
+![GO_05]({{ site.url }}{{ site.baseurl }}/assets/images/greenonion5.png)
 
 <br>
 
@@ -272,11 +267,8 @@ layout = go.Layout(title='2020-2021 1~3월 산지 별 대파 출하량', barmode
 fig = go.Figure(data=data, layout=layout)
 pyo.iplot(fig)
 ```
-<br>
 
-![GO_06]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion6.png)
-
-<br>
+![GO_06]({{ site.url }}{{ site.baseurl }}/assets/images/greenonion6.png)
 
 ### 2020 VS 2021 3월 대파 가격 Boxplot
 
@@ -292,7 +284,7 @@ plt.show()
 ```
 <br>
 
-![GO_07]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion7.png)
+![GO_07]({{ site.url }}{{ site.baseurl }}/assets/images/greenonion7.png)
 
 <br>
 
@@ -313,8 +305,5 @@ trade_corr2 = Jindo_TradeVol_pri.corr(method = 'pearson')
 trade_corr2#피어슨 상관계수
 # 값이 -0.7 ~ -0.3 이면, 뚜렷한 음적 상관관계
 ```
-<br>
 
-![GO_08]{{ site.url }}{{ site.baseurl }}/assets/images/greenonion8.png)
-
-<br>
+![GO_08]({{ site.url }}{{ site.baseurl }}/assets/images/greenonion8.png)

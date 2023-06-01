@@ -66,7 +66,7 @@ algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true (default) #, false
+  powered_by             : false #, false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -276,15 +276,15 @@ compress_html:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
+#  docs:
+#    output: true
+#    permalink: /:collection/:path/
+#  recipes:
+#    output: true
+#    permalink: /:collection/:path/
+#  pets:
+#    output: true
+#    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -312,33 +312,33 @@ defaults:
       layout: single
       author_profile: true
   # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "collections"
+#  - scope:
+#      path: ""
+#      type: docs
+#    values:
+#      layout: single
+#      read_time: false
+#      author_profile: false
+#      share: false
+#      comments: false
+#      sidebar:
+#        nav: "collections"
   # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: recipes
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
   # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: pets
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
   # _portfolio
   - scope:
       path: "_portfolio"

@@ -12,12 +12,14 @@ collections:
   - title: "collections"
     url: https://Areum120.github.io/
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
       - title: "BMW Startup Garage"
         url: /portfolio/BMW Startup Garage/
       - title: "Analysis of green onion prices"
         url: /portfolio/Analysis of green onion prices/
+      - title: "Funda sales prediction"
+        url: /portfolio/Funda sales prediction/
+      - title: "Selection of the location of the elderly protection zone"
+        url: /portfolio/koroad Selection of the location of the elderly protection zone/
 sidebar:
   nav: "collections"
 

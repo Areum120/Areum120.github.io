@@ -13,7 +13,8 @@ tags:
    - data analysis
    - folium
    - googlemaps
-   - pandas
+   - pandas 
+toc: true
 ---
 BMW 신규 전시장과 서비스센터 거점 선정을 위해<br>
 서울지역 별 교통사고량 대비 BMW, Benz의 서비스센터 수를 지도 시각화로 비교 분석하기로 했다.
@@ -1611,7 +1612,7 @@ seoul_car['상권업종소분류명'].unique()
 seoul_car_sc = seoul_car.loc[seoul_car['상권업종소분류명'] == '자동차부품판매']
 ```
 
-### BMW 서비스센터 & 차대차 교통사고 수&자동차 부품점 구별 지도시각화
+## BMW 서비스센터 & 차대차 교통사고 수&자동차 부품점 구별 지도시각화
 
 
 

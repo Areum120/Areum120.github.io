@@ -11,7 +11,8 @@ tags:
   - BMW
   - data analysis
   - matplotlib
-  - pandas
+  - pandas 
+toc: true
 ---
 BMW 모델별로 어떤 모델이 가장 많이 팔렸는지 2017년 부터 2021년 5월까지 누적판매량 순위를 EDA를 살펴볼 것이다<br>
 모델 중 SUV가 요즘 수입차와 국내차 브랜드를 가리지 않고 많이 팔리는 추세이다. <br> SUV와 세단의 판매 추이도 알아보고
@@ -2673,9 +2674,7 @@ sns.barplot(x="판매량", y="BMW모델", data=BMWSalesRanking)
 
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_44_1.png)
-    
+![bmwsuvsedan1]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (1).png)
 
 
 
@@ -2686,9 +2685,8 @@ sns.palplot(custom_palette)
 ```
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_45_0.png)
-    
+
+![bmwsuvsedan2]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (2).png)
 
 
 
@@ -2699,8 +2697,8 @@ sns.palplot(custom_palette2)
 ```
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_46_0.png)
+
+![bmwsuvsedan3]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (3).png)
     
 
 
@@ -2786,9 +2784,9 @@ plt.show()
 ```
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_49_0.png)
-    
+
+![bmwsuvsedan4]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (4).png)
+
 
 
 ### 연간 차량 등록 수 및 BMW SUV 판매추이 비교
@@ -2832,7 +2830,7 @@ plt.show()
 ```
 
 
-    
-![png](../../Users/웍스컴바인/Downloads/2021-07-25-BMW_SUV_Sedan_sales_analysis/output_51_0.png)
+
+![bmwsuvsedan5]({{ site.url }}{{ site.baseurl }}/assets/images/suvsedan (5).png)
     
 
