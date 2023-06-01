@@ -1,6 +1,6 @@
 ---
-title: "Volvo_Evsa_dashboard"
-permalink: /portfolio/Volvo_Evsa_dashboard/
+title: "Volvo Evsa dashboard"
+permalink: /portfolio/Volvo Evsa dashboard/
 date: 2022-06-01
 categories:
     - Volvo project
