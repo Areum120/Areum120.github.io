@@ -28,17 +28,17 @@ title: "About"
 
 
 > 2022 볼보 EVSA 전기차 보조금 대시보드 구축 PM
-<br>- BMW CIC 고객 상담 데이터 대시보드 구축 PM 
-<br>- BMW Garage Startup program Business Intelligence 부문 파트너사 선정
-<br>- BMW 재구매 고객 예측 모델 개발 프로젝트 PM
+<br> 2022 BMW CIC 고객 상담 데이터 대시보드 구축 PM 
+<br> 2021 BMW Garage Startup program Business Intelligence 부문 파트너사 선정
+<br> 2021 BMW 재구매 고객 예측 모델 개발 프로젝트 PM
 
   
 > 2021 도로교통공단 공공 빅데이터 분석 과제 최우수상 
-<br>- 노인보호구역 효율성 재고 및 신규 입지 선정
+<br>- 2021 노인보호구역 효율성 재고 및 신규 입지 선정
 
 
 > 2020 경기도 빅데이터 전문가 양성과정 파이널 프로젝트 우수상
-<br>- 고령층 디지털 정보 격차 요인 분석
+<br>- 2020 고령층 디지털 정보 격차 요인 분석
 
 > 2019 스케쳐스, 대원제약, (주)우리와 마케팅 전략 기획 PM 
 
