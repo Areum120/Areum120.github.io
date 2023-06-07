@@ -27,8 +27,8 @@ title: "About"
 ## Awards
 
 
-> 2022 볼보 EVSA 전기차 보조금 대시보드 구축 PM [Portfolio](https://areum120.github.io/portfolio/BMW%20Startup%20Garage/)
-<br> BMW CIC 고객 상담 데이터 대시보드 구축 PM [Portfolio](https://areum120.github.io/portfolio/Volvo%20Evsa%20dashboard/)
+> 2022 볼보 EVSA 전기차 보조금 대시보드 구축 PM [Portfolio](https://areum120.github.io/portfolio/Volvo%20Evsa%20dashboard/)
+<br> BMW CIC 고객 상담 데이터 대시보드 구축 PM [Portfolio](https://areum120.github.io/portfolio/BMW%20Startup%20Garage/)
 
 > 2021 BMW Garage Startup program Business Intelligence 부문 파트너사 선정
 <br> BMW 재구매 고객 예측 모델 개발 프로젝트 PM
